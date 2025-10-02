@@ -1,9 +1,9 @@
 ## Hi there 👋 Qadamboyev zuhriddin
 <h1>mening IT ko`nikmalarim</h1>
 <ol>
-  <li>html</li>
-  <li>javascript</li>
-  <li>Css</li>
+  <li>html</li>👌
+  <li>javascript</li>👍
+  <li>Css</li>✌️
 </ol>
 <!--
 **Zuhriddin2010/Zuhriddin2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
