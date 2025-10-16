@@ -1,7 +1,8 @@
 ## Hi there 👋 Qadamboyev zuhriddin
 <h1>mening IT ko`nikmalarim</h1>
 <ol>
-  <li>html</li>👌
+  <li>html</li><img src'<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e975455-6631-4e87-ba3c-e9ee642c876f" />
+'>�
   <li>javascript</li>👍
   <li>Css</li>✌️
 </ol>
