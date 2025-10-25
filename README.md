@@ -2,7 +2,7 @@
 <h1>mening IT ko`nikmalarim</h1>
 <ol>
   <li>html</li>
-  <li>javascript</li>�
+  <li>javascript</li>
   <li>Css</li>
 </ol>
 <!--
