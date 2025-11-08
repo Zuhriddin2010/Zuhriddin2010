@@ -1,6 +1,6 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![salom mening ismim Qadamboyev Zuhriddin](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ## Hi I`m Qadamboyev zuhriddin yo`ldashboy o`g`li 👋
 <h1>mening IT ko`nikmalarim 👇</h1>
 <ol>
