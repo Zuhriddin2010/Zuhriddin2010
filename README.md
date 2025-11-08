@@ -1,4 +1,5 @@
-<img src"file:///C:/Users/%D1%84%D1%84%D1%84/Downloads/Bottom_up.svg"></img>
+<img src"![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
+"></img>
 ## Hi I`m Qadamboyev zuhriddin yo`ldashboy o`g`li 👋
 <h1>mening IT ko`nikmalarim 👇</h1>
 <ol>
