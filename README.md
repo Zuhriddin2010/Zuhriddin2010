@@ -1,6 +1,8 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />
 ![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Qadamboyev+Zuhriddin+Yoldashboy+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=react-dark)
 <h1>mening IT ko`nikmalarim 👇</h1>
 <ol>
   <li> html</li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
