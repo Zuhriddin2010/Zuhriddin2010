@@ -1,7 +1,6 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />
 ![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Qadamboyev+Zuhriddin+Yoldashboy+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
-https://camo.githubusercontent.com/1ebcf6e7c305f0b9c912f98d84ae50e861f31155c22f88a3d761e4e1102b602a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72757a6d616d61746f763939267468656d653d746f6b796f6e69676874266e6f2d6672616d653d7472756526636f6c756d6e3d38266d617267696e2d773d3135266d617267696e2d683d3135
 <h1>mening IT ko`nikmalarim 👇</h1>
 <ol>
   <li> html</li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
