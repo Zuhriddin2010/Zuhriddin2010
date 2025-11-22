@@ -7,7 +7,7 @@
 https://<Zuhriddin2010>.github.io/<Zuhriddin2010>/
 
 ### Preview:
-![Portfolio Preview](https://github.com/<Zuhriddin2010>/<Zuhriddin2010>/assets/<img-id>)
+![Portfolio Preview](https://github.com/<Zuhriddin2010>/<Zuhriddin2010>/assets/<file:///C:/Users/User%20-8/Desktop/my%20web/vcard-personal-portfolio-master/index.html>)
 
 
 
