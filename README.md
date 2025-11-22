@@ -4,10 +4,10 @@
 ## 🌐 My Portfolio Website
 
 👉 **Live Demo:**  
-https://<Zuhriddin2010>.github.io/<repo-name>/
+https://<Zuhriddin2010>.github.io/<Zuhriddin2010>/
 
 ### Preview:
-![Portfolio Preview](https://github.com/<Zuhriddin2010>/<repo-name>/assets/<img-id>)
+![Portfolio Preview](https://github.com/<Zuhriddin2010>/<Zuhriddin2010>/assets/<img-id>)
 
 
 
