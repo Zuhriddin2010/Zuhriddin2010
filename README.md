@@ -1,10 +1,8 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
-<!-- Visitors Counter -->
+<!-- Visitors and Friends -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zuhriddin2010&label=VISITORS&color=yellow&style=flat-square" alt="Visitors" />
-</p>
-<!-- Friends / Followers -->
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" />
 </p>
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />
