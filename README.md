@@ -12,7 +12,7 @@
 ![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Qadamboyev+Zuhriddin+Yoldashboy+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
 
 
-<h1 style"text-align:center;">mening IT ko`nikmalarim 👇</h1>
+<h1>mening IT ko`nikmalarim 👇</h1>
 <ol>
   <li> html</li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <li>javascript</li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
