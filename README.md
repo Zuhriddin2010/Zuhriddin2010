@@ -14,7 +14,6 @@
 <!-- GitHub Achievements -->
 ![GitHub Achievements](https://github-readme-achievements.vercel.app/user?username=Zuhriddin2010&theme=react-dark)
 
-
 <h1>mening IT ko`nikmalarim 👇</h1>
 <ol>
   <li> html</li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
