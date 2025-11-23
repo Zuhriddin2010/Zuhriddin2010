@@ -11,8 +11,6 @@
 
 ![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Qadamboyev+Zuhriddin+Yoldashboy+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=react-dark)
-
 
 <h1>mening IT ko`nikmalarim 👇</h1>
 <ol>
