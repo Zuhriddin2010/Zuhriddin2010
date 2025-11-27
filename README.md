@@ -2,7 +2,7 @@
 
 <!-- Visitors and Friends -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zuhriddin2010&label=VISITORS&color=yellow&style=flat-square" alt="Visitors" />
+ ![Profile views](https://komarev.com/ghpvc/?username=Zuhriddin2010&label=VISITORS&color=yellow&style=flat-square)
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
 </p>
