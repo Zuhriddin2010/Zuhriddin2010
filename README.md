@@ -11,7 +11,7 @@
 ![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Qadamboyev+Zuhriddin+Yoldashboy+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
 
 <div align="center">
-  <img src="https://github.com/Zuhriddin2010/Zuhriddin2010/raw/main/coder.gif" alt="Coding Animation" width="600"/>
+  ![Uploading 373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif…]()
 </div>
 <h1>mening IT ko`nikmalarim 👇</h1>
 <ol>
