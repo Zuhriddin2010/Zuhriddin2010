@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
 </p>
 
-<img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />
+<img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />            
 
 ![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Qadamboyev+Zuhriddin+Yoldashboy+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
 
