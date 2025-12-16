@@ -1,6 +1,6 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 
-<!-- Visitors and Friends -->
+<!-- Visitors and Friends -->              
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
