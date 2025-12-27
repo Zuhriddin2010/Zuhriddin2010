@@ -9,11 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeWithShahriar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<!-- Python Logo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-</p>
-
 
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />            
 
@@ -27,6 +22,7 @@
   <li> html</li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <li>javascript</li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   <li> Css</li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <li>Pyton</li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </ol>
 <!--
 **Zuhriddin2010/Zuhriddin2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
