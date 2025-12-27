@@ -3,11 +3,21 @@
 
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Salom+men+Qadamboyev+Zuhriddin;IT+Sohasiga+Qizqaman;Maqsadim+Web+Dasturchi+bolish" alt="Typing SVG" />
+</div>
+
+
+
+
+
 <!-- Visitors and Friends -->              
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
 </p>
+
+
 
 
 
@@ -21,13 +31,7 @@
 
 
 
-<img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />            
 
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Salom+men+Qadamboyev+Zuhriddin;IT+Sohasiga+Qizqaman;Maqsadim+Web+Dasturchi+bolish" alt="Typing SVG" />
-</div>
 
  
 
