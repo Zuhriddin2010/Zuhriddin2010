@@ -28,7 +28,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hello%2C+I%27m+Qadamboyev+Zuhriddin!;Python+Developer;Web+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Salom+Men+Qadamboyev+Zuhriddin+IT+sohasiga+qiziqaman!;Maqsadim+Web+Dasturchi+bolish" alt="Typing SVG" />
 
 </div>
 
