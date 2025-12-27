@@ -31,6 +31,7 @@
 
 
 
+![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 
 
  
