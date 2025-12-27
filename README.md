@@ -1,22 +1,34 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 
+
+
+
 <!-- Visitors and Friends -->              
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
 </p>
+
+
+
+
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeWithShahriar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
+
+
+
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />            
 
-![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Qadamboyev+Zuhriddin+Yoldashboy+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
+
+
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hello%2C+I%27m+Zuhriddin!;Python+Developer;Web+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hello%2C+I%27m+Qadamboyev+Zuhriddin!;Python+Developer;Web+Enthusiast" alt="Typing SVG" />
 
 </div>
 
