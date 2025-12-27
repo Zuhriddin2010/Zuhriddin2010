@@ -25,8 +25,12 @@
 
 
 
+<!-- Skills Icons -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1500&color=00FF7F&center=true&vCenter=true&width=600&lines=Salom%2C+Men+Qadamboyev+Zuhriddin!;IT+sohasiga+qiziqaman.;Maqsadim+—+Web+Dasturchi+bo'lish." alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
 </div>
 
  
