@@ -26,9 +26,8 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Salom+Men+Qadamboyev+Zuhriddin+IT+sohasiga+qiziqaman!;Maqsadim+Web+Dasturchi+bolish" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1500&color=00FF7F&center=true&vCenter=true&width=600&lines=Salom%2C+Men+Qadamboyev+Zuhriddin!;IT+sohasiga+qiziqaman.;Maqsadim+—+Web+Dasturchi+bo'lish." alt="Typing SVG" />
 </div>
-
 
  
 
