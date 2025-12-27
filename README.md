@@ -5,6 +5,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
 </p>
+![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667](https://github.com/user-attachments/assets/83913ca2-44e7-4e92-ac5c-7096eb3dbd1a)
+![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667](https://github.com/user-attachments/assets/78cf27a4-0620-4c2d-8152-fe270c571bd1)
+![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667](https://github.com/user-attachments/assets/31db1cba-2560-4890-abfc-cf725daca240)
+
 
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/d1268492-1814-4d0c-9383-f17e0260f10f" />            
 
