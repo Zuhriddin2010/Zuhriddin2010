@@ -14,6 +14,12 @@
 
 ![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Qadamboyev+Zuhriddin+Yoldashboy+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
 
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hello%2C+I%27m+Zuhriddin!;Python+Developer;Web+Enthusiast" alt="Typing SVG" />
+
+</div>
+
 
  
 
