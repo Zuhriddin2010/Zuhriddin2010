@@ -62,12 +62,10 @@
   <a href="https://www.instagram.com/zuh1riddin._/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
+  </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://fullportf.netlify.app/">
     <img src="https://img.shields.io/badge/Website-3498DB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
