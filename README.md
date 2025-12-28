@@ -43,11 +43,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </ol>
+
+
+
+
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/your_telegram_username)
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/your_instagram_zuh1riddin._/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/zuh1riddin._/)
+
+
+
+
+
+
+
+
+
 <!--
 **Zuhriddin2010/Zuhriddin2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
