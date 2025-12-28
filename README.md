@@ -51,7 +51,7 @@
 
 
 <p align="center">
-  <a href="mailto:zuhriddin.qadamboyev@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inboxs">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp; <!-- O'rtada bo'sh joy -->
