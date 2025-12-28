@@ -47,7 +47,7 @@
 
 
 
-### Connect with me:
+<h2 align="center"> Connect with me:</h2>
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/zuh1riddin2010)
 
