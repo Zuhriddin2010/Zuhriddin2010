@@ -59,7 +59,7 @@
   </a>
 
   
-  <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev/">
+  <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
