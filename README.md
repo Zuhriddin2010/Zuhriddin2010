@@ -49,7 +49,7 @@
 
 ### Connect with me:
 
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/your_telegram_username)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/zuh1riddin2010)
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />](https://www.instagram.com/zuh1riddin._/)
 
