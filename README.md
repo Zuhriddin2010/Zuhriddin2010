@@ -33,6 +33,7 @@
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=react-dark)
 
  
