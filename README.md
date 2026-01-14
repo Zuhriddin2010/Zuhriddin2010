@@ -33,11 +33,14 @@
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Zuhriddin2010=anuraghazra&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=react-dark)
+
  
 ![My Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&theme=react-dark&bg_color=000000&color=ffffff&line=ff6b6b&point=ffffff&hide_border=true)
 
+
 ![rainbow-superthin](https://github.com/user-attachments/assets/dd38a7db-2f0c-427c-a394-05c92200f5d0)
+
 
 <ol>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
