@@ -35,7 +35,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Zuhriddin2010=anuraghazra&show_icons=true)
  
-
+![My Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&theme=react-dark&bg_color=000000&color=ffffff&line=ff6b6b&point=ffffff&hide_border=true)
 
 ![rainbow-superthin](https://github.com/user-attachments/assets/dd38a7db-2f0c-427c-a394-05c92200f5d0)
 
