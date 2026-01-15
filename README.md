@@ -49,7 +49,9 @@
 </ol>
 
 ![rainbow-superthin](https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca)
-
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 
 
 <h2 align="center"> Connect with me:</h2>
