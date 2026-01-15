@@ -38,7 +38,11 @@
 ![My Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&theme=react-dark&bg_color=000000&color=ffffff&line=ff6b6b&point=ffffff&hide_border=true)
 
 
-![rainbow-superthin](https://github.com/user-attachments/assets/dd38a7db-2f0c-427c-a394-05c92200f5d0)
+
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+
 
 
 <ol>
@@ -48,10 +52,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </ol>
 
-![rainbow-superthin](https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca)
+
+
+
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
+
+
+
 
 
 <h2 align="center"> Connect with me:</h2>
@@ -78,6 +87,7 @@
     <img src="https://img.shields.io/badge/Website-3498DB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
+
 
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303539363639266865696768743d3130302673656374696f6e3d666f6f746572](https://github.com/user-attachments/assets/06a082d0-1bd0-48ad-b98a-7ca7fe84c1c5)
