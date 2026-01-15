@@ -48,6 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 </ol>
 
+![rainbow-superthin](https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca)
 
 
 
