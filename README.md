@@ -7,7 +7,7 @@
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" /></a>
 
 
 <!-- Visitors and Friends -->              
