@@ -7,7 +7,7 @@
 </div>
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue)](https://git.io/streak-stats)
 
 
 <!-- Visitors and Friends -->              
