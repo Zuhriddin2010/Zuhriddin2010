@@ -7,7 +7,7 @@
 </div>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" /></a>
+
 
 
 <!-- Visitors and Friends -->              
@@ -32,6 +32,8 @@
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" /></a>
 
  
 ![My Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&theme=react-dark&bg_color=000000&color=ffffff&line=ff6b6b&point=ffffff&hide_border=true)
