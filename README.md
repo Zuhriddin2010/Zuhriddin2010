@@ -1,7 +1,6 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 
           
- ![My Stats](https://raw.githubusercontent.com/Zuhriddin2010/Vorislar_darslari_9/main/metrics.organization.svg)
                                                                                                                                                                                          
 
 <div align="center">                                                            
