@@ -34,9 +34,6 @@
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
-# 🎮 Zuhriddin’s GitHub Quest
-
-![Game Stats](https://raw.githubusercontent.com/Zuhriddin2010/my-github-game/main/github-metrics.svg)
 
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
