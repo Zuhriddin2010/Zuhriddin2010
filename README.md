@@ -49,13 +49,7 @@
   </a>
 </div>
 
-### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
-### 📈 Commits per Hour (UTC+0)
-![Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=Zuhriddin2010&theme=radical)
-
- 
 ![My Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&theme=react-dark&bg_color=000000&color=ffffff&line=ff6b6b&point=ffffff&hide_border=true)
 
 
