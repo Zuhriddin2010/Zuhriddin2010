@@ -1,7 +1,8 @@
 ![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 
           
- ![metrics organization2](https://github.com/user-attachments/assets/d115e89a-7b1a-4cdc-abe0-923dc44f5db4)
+ ## 📊 My GitHub Stats
+![Organization Metrics](https://raw.githubusercontent.com/lowlighter/metrics/main/examples/metrics.organization.svg)
                                                                                                                                                                                          
 
 <div align="center">                                                            
