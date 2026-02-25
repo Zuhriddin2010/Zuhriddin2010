@@ -1,7 +1,6 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb16dc1b-8a5a-40ab-9c28-5ea1d1253c57" />![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
+![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 
              
- ![metrics organization](https://github.com/user-attachments/assets/e4078c52-bcef-4e4e-844b-991861d403e7)
                                                                                                                                                                                                                                                                                                                                                                                                                                        
 <div align="center">                                                            
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Salom+men+Qadamboyev+Zuhriddin;IT+Sohasiga+Qizqaman;Maqsadim+Web+Dasturchi+bolish" alt="Typing SVG"/>
