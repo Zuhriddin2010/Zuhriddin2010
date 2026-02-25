@@ -27,18 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=CodeWithShahriar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-# 🐍 Zuhriddin’s Snake Game
 
-![Snake Game](https://github.com/Zuhriddin2010/Vorislar_darslari_9/blob/main/snake.py?raw=true)
-
-> Terminalda ishlaydigan klassik Snake o‘yini.  
-> 🖥️ `python snake.py` deb ishlating.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=radical&count_private=true)
 
 ![Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=Zuhriddin2010&theme=radical)
 
