@@ -29,7 +29,6 @@
 </p>
 
 
-![Metrics](https://metrics.lewagon.com/?username=Zuhriddin2010&template=classic&theme=dark&config=contribution=1)
 
 ![68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667](https://github.com/user-attachments/assets/da266024-63a4-4d84-8d29-a5b1ed013cd2)
 
