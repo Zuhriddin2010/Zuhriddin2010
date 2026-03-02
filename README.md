@@ -10,7 +10,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=dark&count_private=true" alt="Stats" />
+  <a href="https://github.com/Zuhriddin2010">
+    <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FOLLOWERS&color=ff6b6b&style=flat-square&logo=github" alt="Followers" />
+  </a>
 </div>
 
 <!-- Visitors and Friends -->              
