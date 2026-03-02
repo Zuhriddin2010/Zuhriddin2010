@@ -9,7 +9,7 @@
 
 
 
-
+curl -s "https://api.github.com/users/Zuhriddin2010" | jq -r '.followers'
 
 <!-- Visitors and Friends -->              
 <p align="center">
