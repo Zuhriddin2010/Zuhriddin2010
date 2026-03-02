@@ -9,7 +9,9 @@
 
 
 
-curl -s "https://api.github.com/users/Zuhriddin2010" | jq -r '.followers'
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=dark&count_private=true" alt="Stats" />
+</div>
 
 <!-- Visitors and Friends -->              
 <p align="center">
