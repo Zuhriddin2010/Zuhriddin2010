@@ -15,9 +15,10 @@
   </a>
 </div>
 
-
+<!--stars-->
+<div align="center">
 <img src="https://img.shields.io/github/stars/Zuhriddin2010?label=STARS&color=gold&style=flat-square&logo=star" alt="Stars" />
-
+</div>
 
 
 
