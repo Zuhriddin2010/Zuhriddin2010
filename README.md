@@ -8,19 +8,15 @@
 </div>
 
 
-
+<!--follow-->
 <div align="center">
   <a href="https://github.com/Zuhriddin2010">
     <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FOLLOWERS&color=ff6b6b&style=flat-square&logo=github" alt="Followers" />
   </a>
 </div>
 
-<!-- Visitors and Friends -->              
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FRIENDS&color=yellow&style=flat-square" alt="Friends" /> 
-</p>
 
+<img src="https://img.shields.io/github/stars/Zuhriddin2010?label=STARS&color=gold&style=flat-square&logo=star" alt="Stars" />
 
 
 
