@@ -11,13 +11,13 @@
 <!--follow-->
 <div align="center">
   <a href="https://github.com/Zuhriddin2010">
-    <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FOLLOWERS&color=ff6b6b&style=flat-square&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FOLLOWERS&color=ff6b6b&style=flat-square&logo=github" alt="Followers"/>
   </a>
 </div>
 
 <!--stars-->
 <div align="center">
-<img src="https://img.shields.io/github/stars/Zuhriddin2010?label=STARS&color=gold&style=flat-square&logo=star" alt="Stars" />
+<img src="https://img.shields.io/github/stars/Zuhriddin2010&label=STARS&color=gold&style=flat-square&logo=star" alt="Stars" />
 </div>
 
 
