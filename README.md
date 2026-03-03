@@ -8,19 +8,6 @@
 </div>
 
 
-<!--follow-->
-<div align="center">
-  <a href="https://github.com/Zuhriddin2010">
-    <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FOLLOWERS&color=ff6b6b&style=flat-square&logo=github" alt="Followers"/>
-  </a>
-</div>
-
-<!--stars-->
-<div align="center">
-<img src="https://img.shields.io/github/stars/Zuhriddin2010&label=STARS&color=gold&style=flat-square&logo=star" alt="Stars" />
-</div>
-
-
 
 
 <!-- Profile Views -->
@@ -28,6 +15,18 @@
   <img src="https://komarev.com/ghpvc/?username=CodeWithShahriar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
+<!-- Stars -->
+<div align="center">
+  <img src="https://img.shields.io/github/stars/Zuhriddin2010/Zuhriddin2010?label=STARS&color=gold&style=flat-square" />
+</div>
+
+<!-- Followers -->
+<div align="center">
+  <a href="https://github.com/Zuhriddin2010">
+    <img src="https://img.shields.io/github/followers/Zuhriddin2010?label=FOLLOWERS&color=ff6b6b&style=flat-square" />
+  </a>
+</div>
 
 
 ![68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667](https://github.com/user-attachments/assets/da266024-63a4-4d84-8d29-a5b1ed013cd2)
