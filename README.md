@@ -55,7 +55,9 @@
 
 ![My Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&theme=react-dark&bg_color=000000&color=ffffff&line=ff6b6b&point=ffffff&hide_border=true)
 
+## 🚀 GitHub Stats
 
+![Zuhriddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
 
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
