@@ -55,8 +55,15 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=radical&cache_seconds=1" />
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true)
+
+---
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhriddin2010&layout=compact)
 
 
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
