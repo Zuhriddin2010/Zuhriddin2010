@@ -31,14 +31,11 @@
 
 
 ![68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667](https://github.com/user-attachments/assets/da266024-63a4-4d84-8d29-a5b1ed013cd2)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
 ![github-snake-dark](https://github.com/user-attachments/assets/b365fb6d-736a-4739-8701-03eafc903539)
 
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
 
 <!--chiziqni kodi-->
