@@ -165,6 +165,20 @@
 
 
 
+
+
+<p align="center">
+  <a href="mailto:SizningEmailingiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/zuhriddin2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/profilingiz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://robocontest.uz/profile/zuhriddin2010"><img src="https://img.shields.io/badge/RoboContest-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+
+
+
+
+
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303539363639266865696768743d3130302673656374696f6e3d666f6f746572](https://github.com/user-attachments/assets/06a082d0-1bd0-48ad-b98a-7ca7fe84c1c5)
 
 
