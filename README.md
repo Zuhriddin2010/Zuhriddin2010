@@ -79,15 +79,6 @@
 
 <!--img status-->
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zuhriddin2010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" height="195px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Zuhriddin Stats" height="195px" />
-</p>
-
-
-
-
-
 
 <table border="0">
   <tr>
@@ -99,12 +90,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-
 
 
 
