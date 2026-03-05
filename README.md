@@ -92,15 +92,6 @@
 
 
 
-<ol>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-
-</ol>
-
-
 
 <ol>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
@@ -110,6 +101,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 </ol>
+
 
 
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
