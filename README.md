@@ -56,13 +56,13 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
   </a>
-</div>
+</div><br><br>
 
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9489c387-10f4-4a19-803a-cd3cd27243e0" alt="Metrics Organization" width="55%" />
-</div><br><br>
+  <img src="https://github.com/user-attachments/assets/9489c387-10f4-4a19-803a-cd3cd27243e0" alt="Metrics Organization" width="59%" />
+</div>
 
 
 
