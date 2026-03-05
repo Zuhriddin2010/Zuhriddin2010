@@ -51,7 +51,7 @@
 
 
 
-<h2 align="center">github stats</h2>
+<h2 align="center">📊 github stats</h2>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
@@ -69,10 +69,6 @@
 
 <div align="center">
 
-## 📊 GitHub Performance
-
-
-
 <br/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Zuhriddin Stats" />
@@ -85,6 +81,8 @@
 
 
 
+
+<!--skils-->
 
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
@@ -109,7 +107,6 @@
 
 
 
-![metrics classic](https://github.com/user-attachments/assets/99ab4e65-475b-4cc2-9f7b-28d5c9b6501c)
 
  
 
@@ -117,7 +114,7 @@
 
 
 
-
+<!--bog`lanish-->
 
 <h2 align="center"> Connect with me:</h2>
 
