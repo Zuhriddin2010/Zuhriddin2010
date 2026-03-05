@@ -60,10 +60,9 @@
 
 
 
-![metrics organization2](https://github.com/user-attachments/assets/9489c387-10f4-4a19-803a-cd3cd27243e0)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9489c387-10f4-4a19-803a-cd3cd27243e0" alt="Metrics Organization" width="55%" />
-</div>
+</div><br>
 
 
 
