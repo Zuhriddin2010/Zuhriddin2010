@@ -161,21 +161,10 @@
   <a href="https://fullportf.netlify.app/">
     <img src="https://img.shields.io/badge/Website-3498DB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
+   <a> 
+ [![RoboContest](https://img.shields.io/badge/RoboContest-zuhriddin2010-blue?style=for-the-badge&logo=codeforces)](https://robocontest.uz/profile/zuhriddin2010)
+  </a> 
 </p>
-
-
-
-
-
-<p align="center">
-  <a href="mailto:SizningEmailingiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/zuhriddin2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/profilingiz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://robocontest.uz/profile/zuhriddin2010"><img src="https://img.shields.io/badge/RoboContest-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</p>
-
-
-
 
 
 
