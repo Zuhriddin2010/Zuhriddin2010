@@ -67,7 +67,7 @@
 
 
 
-<div align="center">
+<div>
 
 <br/>
 
@@ -77,7 +77,9 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zuhriddin2010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff" alt="Top Languages" />
 
+
 </div>
+
 
 
 
