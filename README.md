@@ -92,7 +92,6 @@
 
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="117" class="">
  
 
 
