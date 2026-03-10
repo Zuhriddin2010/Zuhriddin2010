@@ -93,7 +93,9 @@
 
 
 
-![metrics plugin reactions](https://github.com/user-attachments/assets/5db9076b-33a5-4483-b72b-094550bd643f)
+<p align="center">
+  <img src="https://github-metrics-tau.vercel.app/api/reactions?username=Zuhriddin2010&theme=tokyonight" alt="GitHub Reactions Metrics" />
+</p>
 
 
 
