@@ -94,7 +94,11 @@
 
 
 <p align="center">
-  <img src="https://github-metrics-tau.vercel.app/api/reactions?username=Zuhriddin2010&theme=tokyonight" alt="GitHub Reactions Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=tokyonight&count_private=true" alt="Zuhriddin Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhriddin2010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
