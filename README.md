@@ -93,6 +93,10 @@
 
 
 
+![metrics plugin reactions](https://github.com/user-attachments/assets/5db9076b-33a5-4483-b72b-094550bd643f)
+
+
+
 
 
 
