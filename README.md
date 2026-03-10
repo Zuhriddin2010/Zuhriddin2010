@@ -67,9 +67,9 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/9489c387-10f4-4a19-803a-cd3cd27243e0" alt="Metrics Organization" width="59%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhriddin2010&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
