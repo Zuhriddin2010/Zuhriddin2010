@@ -93,23 +93,25 @@
 
 
 
+
+
+
+
+
+
+
 <p align="center">
-  <a href="https://github.com/Zuhriddin2010/Zuhriddin2010">
-    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FZuhriddin2010%2FZuhriddin2010&label=PROFILGA%20TASHRIFLAR&countColor=%23263238&style=for-the-badge" />
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=zuhriddin2010.like">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Dzuhriddin2010.like%26color%3Dorange%26lcolor%3D%23263238%26style%3Dfor-the-badge%26label%3DLIKE%20🔥" />
+  </a>
+
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=zuhriddin2010.rocket">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Dzuhriddin2010.rocket%26color%3Dgreen%26lcolor%3D%23263238%26style%3Dfor-the-badge%26label%3DZO'R%20🚀" />
   </a>
 </p>
 
 
 
-
-
-
-
-
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_reactions=1&plugin_reactions_limit=300&plugin_reactions_details=percentage&theme=tokyonight" width="600" />
-</p>
 
 
 
