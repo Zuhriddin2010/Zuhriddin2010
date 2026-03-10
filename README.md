@@ -94,11 +94,22 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhriddin2010&show_icons=true&theme=tokyonight&count_private=true" alt="Zuhriddin Stats" />
+  <a href="https://github.com/Zuhriddin2010/Zuhriddin2010">
+    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FZuhriddin2010%2FZuhriddin2010&label=PROFILGA%20TASHRIFLAR&countColor=%23263238&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhriddin2010&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/REAKSIYA%20BILDIRISH-UCHUN%20PASTGA%20CHUSHING-blue?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zuhriddin2010/Zuhriddin2010/discussions">
+    <img src="https://img.shields.io/badge/LIKE%20BOSISH-🔥-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Zuhriddin2010/Zuhriddin2010/discussions">
+    <img src="https://img.shields.io/badge/ZO'R-🚀-green?style=for-the-badge" />
+  </a>
 </p>
 
 
