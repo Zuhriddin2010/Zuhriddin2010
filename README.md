@@ -100,15 +100,9 @@
 
 
 
-<p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=zuhriddin2010.like">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Dzuhriddin2010.like%26color%3Dorange%26lcolor%3D%23263238%26style%3Dfor-the-badge%26label%3DLIKE%20🔥" />
-  </a>
+[![Like](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.like&left_text=LIKE%20🔥&color=orange&style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.like)
 
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=zuhriddin2010.rocket">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Dzuhriddin2010.rocket%26color%3Dgreen%26lcolor%3D%23263238%26style%3Dfor-the-badge%26label%3DZO'R%20🚀" />
-  </a>
-</p>
+[![Zo'r](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.best&left_text=ZO'R%20🚀&color=green&style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.best)
 
 
 
