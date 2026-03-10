@@ -98,7 +98,14 @@
 
 
 
-
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.like">
+    <img src="https://img.shields.io/badge/LIKE%20🔥-orange?style=social&logo=heart" height="40" />
+  </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.best">
+    <img src="https://img.shields.io/badge/ZO'R%20🚀-green?style=social&logo=rocket" height="40" />
+  </a>
+</p>
 
 [![Like](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.like&left_text=LIKE%20🔥&color=orange&style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.like)
 
