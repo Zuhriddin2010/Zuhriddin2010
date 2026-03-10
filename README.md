@@ -99,19 +99,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REAKSIYA%20BILDIRISH-UCHUN%20PASTGA%20CHUSHING-blue?style=for-the-badge&logo=github" />
-</p>
+
+
+
+
+
+
+
 
 <p align="center">
-  <a href="https://github.com/Zuhriddin2010/Zuhriddin2010/discussions">
-    <img src="https://img.shields.io/badge/LIKE%20BOSISH-🔥-orange?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Zuhriddin2010/Zuhriddin2010/discussions">
-    <img src="https://img.shields.io/badge/ZO'R-🚀-green?style=for-the-badge" />
-  </a>
+  <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_reactions=1&plugin_reactions_limit=300&plugin_reactions_details=percentage&theme=tokyonight" width="600" />
 </p>
-
 
 
 
