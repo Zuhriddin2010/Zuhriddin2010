@@ -68,7 +68,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhriddin2010&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zuhriddin2010&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -94,22 +94,6 @@
 
 
 
-
-
-
-
-<p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.like">
-    <img src="https://img.shields.io/badge/LIKE%20🔥-orange?style=social&logo=heart" height="40" />
-  </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.best">
-    <img src="https://img.shields.io/badge/ZO'R%20🚀-green?style=social&logo=rocket" height="40" />
-  </a>
-</p>
-
-[![Like](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.like&left_text=LIKE%20🔥&color=orange&style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.like)
-
-[![Zo'r](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.best&left_text=ZO'R%20🚀&color=green&style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=zuhriddin.best)
 
 
 
