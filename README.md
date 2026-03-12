@@ -69,9 +69,9 @@
 
 
 
-
+<p align="center">
 <img src="https://github.com/user-attachments/assets/919cf68a-b267-4f65-81e2-ca9fa4a7cab7" width="519" />
-
+</p>
 
 
 
