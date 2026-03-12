@@ -68,6 +68,9 @@
 
 
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/Zuhriddin2010?base=header&base.repositories=0&base.metadata=0&theme=tokyonight" width="600" />
+</p>
 
 ![metrics organization](https://github.com/user-attachments/assets/8046f7d2-b051-4428-89b1-b07f83aea988)
 
