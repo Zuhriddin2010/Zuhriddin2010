@@ -45,9 +45,8 @@
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_pagespeed=1&plugin_pagespeed_detailed=1&theme=tokyonight" width="600" />
+  <img src="https://raw.githubusercontent.com/Zuhriddin2010/Zuhriddin2010/main/fayl-nomi.svg" />
 </p>
-
 
 
 
