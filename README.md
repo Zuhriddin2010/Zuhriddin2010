@@ -47,16 +47,9 @@
 
 
 
-  <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_pagespeed=1&plugin_pagespeed_detailed=1&theme=tokyonight" width="600" />
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_skyline=1&plugin_skyline_year=2024&theme=tokyonight" width="600" />
+  <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_reactions=1&plugin_reactions_limit=300&plugin_reactions_details=percentage&theme=tokyonight" width="600" />
 </p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_splatoon=1&theme=tokyonight" width="600" />
-</p>
-
 
 
 
