@@ -46,9 +46,8 @@
 
 
 
-<p align="center">
+
   <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_pagespeed=1&plugin_pagespeed_detailed=1&theme=tokyonight" width="600" />
-</p>
 
 <p align="center">
   <img src="https://metrics.lecoq.io/Zuhriddin2010?base=0&plugin_skyline=1&plugin_skyline_year=2024&theme=tokyonight" width="600" />
