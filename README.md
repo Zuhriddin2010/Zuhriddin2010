@@ -122,7 +122,7 @@
 
 <!--skils-->
 
-### 🚀 Mening ko'nikmalarim:
+<h2 align="center">🚀 Mening ko'nikmalarim:</h2>
 
 
 <!--chiziqni kodi-->
