@@ -45,7 +45,7 @@
 
 <div align="center">   
 <img src="https://github.com/user-attachments/assets/c6dbd900-4200-42fb-affc-752a17bce4fe"
-     style="width: 90%; height: auto; display: block; margin: 0; padding: 0;" 
+     style="width: 80%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rain line"
 </div>
 
