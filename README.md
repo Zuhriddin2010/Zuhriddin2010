@@ -74,6 +74,9 @@
 </div><br><br>
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
 
 
 
