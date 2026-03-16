@@ -44,7 +44,9 @@
 
 
 <div align="center">   
-![metrics plugin reactions2](https://github.com/user-attachments/assets/c6dbd900-4200-42fb-affc-752a17bce4fe)
+<img src="https://github.com/user-attachments/assets/c6dbd900-4200-42fb-affc-752a17bce4fe"
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rain line"
 </div>
 
 
