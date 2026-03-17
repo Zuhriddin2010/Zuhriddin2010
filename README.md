@@ -177,8 +177,8 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/zuh1riddin._/">
-    <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4badd6d6-a664-4642-be8f-c66acf828f18" />
+  <a href="https://www.instagram.com/zuh1riddin._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/">
