@@ -170,7 +170,7 @@
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/#inboxs">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/zuh1riddin2010">
