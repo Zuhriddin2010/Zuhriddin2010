@@ -197,6 +197,63 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 align="center"> Connect with me:</h2>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inboxs">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/zuh1riddin2010">
+    <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/zuh1riddin._/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://fullportf.netlify.app/">
+    <img src="https://img.shields.io/badge/Old_Portfolio-3498DB?style=for-the-badge&logo=netlify&logoColor=white" alt="Old Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://qadamboyev1.vercel.app/">
+    <img src="https://img.shields.io/badge/New_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="New Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://robocontest.uz/profile/zuhriddin2010">
+    <img src="https://img.shields.io/badge/RoboContest-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="RoboContest" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303539363639266865696768743d3130302673656374696f6e3d666f6f746572](https://github.com/user-attachments/assets/06a082d0-1bd0-48ad-b98a-7ca7fe84c1c5)
 
 
