@@ -36,9 +36,6 @@
 ![custom-dark](https://github.com/user-attachments/assets/7a7b9a79-76d8-4ae9-8222-ab7eb32638fd)
 
 
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-
-
 ![github-snake-dark](https://github.com/user-attachments/assets/b365fb6d-736a-4739-8701-03eafc903539)
 
 
