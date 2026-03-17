@@ -167,51 +167,6 @@
 
 <!--bog`lanish-->
 
-<h2 align="center"> Connect with me:</h2>
-
-
-<p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inboxs">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- O'rtada bo'sh joy -->
-  <a href="https://t.me/zuh1riddin2010">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/zuh1riddin._/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://fullportf.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-3498DB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
- &nbsp;&nbsp;&nbsp;
-   <a href="https://robocontest.uz/profile/zuhriddin2010"><img src="https://img.shields.io/badge/RoboContest-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" />
-   </a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h2 align="center"> Connect with me:</h2>
@@ -248,6 +203,39 @@
 
 
 
+
+
+<h2 align="center">📩 Connect with me:</h2>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inboxs" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/zuh1riddin2010" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/zuh1riddin._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://fullportf.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://qadamboyev1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://robocontest.uz/profile/zuhriddin2010" target="_blank">
+    <img src="https://img.shields.io/badge/RoboContest-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="RoboContest" />
+  </a>
+</p>
 
 
 
