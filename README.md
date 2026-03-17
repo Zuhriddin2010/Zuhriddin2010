@@ -166,9 +166,6 @@
 
 
 <!--bog`lanish-->
-
-
-
 <h2 align="center">📩 Connect with me:</h2>
 
 <p align="center">
@@ -181,7 +178,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/zuh1riddin._/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4badd6d6-a664-4642-be8f-c66acf828f18" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/">
