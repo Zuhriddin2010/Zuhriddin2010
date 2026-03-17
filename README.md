@@ -33,11 +33,6 @@
 ![68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667](https://github.com/user-attachments/assets/da266024-63a4-4d84-8d29-a5b1ed013cd2)
 
 
-
-![animated_map](https://github.com/user-attachments/assets/ab47797f-ba18-4a7e-b214-22983c3b8d23)
-
-
-
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 
 
