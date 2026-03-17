@@ -76,6 +76,12 @@
 </div><br><br>
 
 
+
+![metrics plugin pagespeed detailed](https://github.com/user-attachments/assets/6a705373-1f97-4906-a568-5cc7a156ac78)
+
+
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zuhriddin2010&bg_color=0D1117&color=39d353&line=39d353&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
