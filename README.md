@@ -214,6 +214,8 @@
   &nbsp;&nbsp;
   <a href="https://t.me/zuh1riddin2010" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img width="512" height="512" alt="telegram" src="https://github.com/user-attachments/assets/3fe5a8f5-be20-43bb-b8e9-6b41f7410853" />
+
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/zuh1riddin._/" target="_blank">
