@@ -178,7 +178,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/zuh1riddin._/">
-    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4badd6d6-a664-4642-be8f-c66acf828f18" />
+    <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4badd6d6-a664-4642-be8f-c66acf828f18" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zuhriddin-qadamboyev-b20389391/">
