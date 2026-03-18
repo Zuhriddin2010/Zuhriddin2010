@@ -88,10 +88,17 @@
 
 
 
+
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/919cf68a-b267-4f65-81e2-ca9fa4a7cab7" width="519" />
 </p>
 
+
+
+
+
+![metrics plugin introduction repository](https://github.com/user-attachments/assets/37fdf2a9-f432-4f60-8356-cf784a49d3d1)
 
 
 
