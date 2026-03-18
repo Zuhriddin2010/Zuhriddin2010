@@ -90,15 +90,29 @@
 
 
 
+
+<table border="0">
+  <tr>
+    <td>
+<img src="https://github.com/user-attachments/assets/37fdf2a9-f432-4f60-8356-cf784a49d3d1" width="519" />
+ </td>
+    <td>
+<img src="https://github.com/user-attachments/assets/af525c4e-6f9d-408b-9247-8595bd18a92f" width="519" />
+ </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/919cf68a-b267-4f65-81e2-ca9fa4a7cab7" width="519" />
 </p>
 
 
-
-
-
-![metrics plugin introduction repository](https://github.com/user-attachments/assets/37fdf2a9-f432-4f60-8356-cf784a49d3d1)
 
 
 
