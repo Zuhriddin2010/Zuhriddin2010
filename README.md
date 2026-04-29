@@ -43,6 +43,10 @@
 
 
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zuhriddin2010?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
+
 <div align="center">   
 <img src="https://github.com/user-attachments/assets/c6dbd900-4200-42fb-affc-752a17bce4fe"
      style="width: 80%; height: auto; display: block; margin: 0; padding: 0;" 
