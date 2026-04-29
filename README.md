@@ -83,6 +83,7 @@
 ![metrics plugin pagespeed detailed](https://github.com/user-attachments/assets/6a705373-1f97-4906-a568-5cc7a156ac78)
 
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zuhriddin2010?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 <p align="center">
