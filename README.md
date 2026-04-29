@@ -77,7 +77,6 @@
   </a>
 <br><br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zuhriddin2010?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 
