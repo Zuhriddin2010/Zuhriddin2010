@@ -72,18 +72,18 @@
 
 
 <h2 align="center">📊 github stats</h2>
-<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Zuhriddin2010&theme=dark&hide_border=true&exclude_days=Tue" alt="GitHub Streak" />
   </a>
-</div><br><br>
+<br><br>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zuhriddin2010?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 
 ![metrics plugin pagespeed detailed](https://github.com/user-attachments/assets/6a705373-1f97-4906-a568-5cc7a156ac78)
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zuhriddin2010?cardType=level-alternate&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 <p align="center">
